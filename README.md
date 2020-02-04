@@ -21,7 +21,7 @@
 #### Hearder 4
 ##### Hearder 5
 ###### Header 6
-####### Hearder 7 (#7개 헸을 경우)
+####### Hearder 7 (#7개 했을 경우)
 
 * BlockQuote
 `>`문자를 사용   
