@@ -95,7 +95,12 @@ Error 1 : 제대로된 디렉토리를 설정하지 못했을 경우 에러발�
 Error 2 : 외부 언어를 불러오고 끝내지 않았을 경우
 > 외부 언어를 불러오고 나서 반드시 ```를 입력하여 마무리 해야한다. 
 
-## 4. Reference
+## 4. Etc..
+* git 명령어 구체적
+* 내용 추가
+* 외부 언어 불러오기
+
+## 5. Reference
 [마크다운 사용법][Link]
 
 [Link]:https://gist.github.com/ihoneymon/652be052a0727ad59601
